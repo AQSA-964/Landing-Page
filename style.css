@@ -18,7 +18,7 @@ header {
 }
 
 .navbar {
-	background-image: url(/images/bgimg.jpg);
+	background-image: url(./images/bgimg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	position: fixed;
@@ -103,7 +103,7 @@ header {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-image: url(/images/bgimg.jpg);
+	background-image: url(./images/bgimg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 90vh;
