@@ -579,8 +579,9 @@ article {
 		flex-direction: column-reverse;
 		align-items: center;
 		justify-content: start;
-		height: 70vh;
+		height: 65vh;
 		padding-top: 20px;
+		padding-bottom: 20px;
 	}
 
 	.sec-3 img {
